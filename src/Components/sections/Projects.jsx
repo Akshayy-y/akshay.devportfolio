@@ -22,8 +22,8 @@ export const Projects = () => {
                     </div>
                     
                     <div className="flex justify-between items-center">
-                        <a href="#" target="_blank" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project → </a>
-                        <a href='#' target='_blank'><IoLogoGithub className='text-2xl  hover:text-blue-500 transition-colors cursor-pointer'/> </a>
+                        <a href="https://github.com/Akshayy-y" target="_blank" className="text-blue-400 hover:text-blue-300 transition-colors my-4">View Project → </a>
+                        <a href='https://github.com/Akshayy-y' target='_blank'><IoLogoGithub className='text-2xl  hover:text-blue-500 transition-colors cursor-pointer'/> </a>
                     </div>
                 </div>
                 {/* Project-2 */}
