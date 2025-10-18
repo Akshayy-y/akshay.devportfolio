@@ -36,7 +36,7 @@ export const Home = () => {
             </a>
 
             <a
-              href="/akshay_resume.pdf"
+              href="/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               download
