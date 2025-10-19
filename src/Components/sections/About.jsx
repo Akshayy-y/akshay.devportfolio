@@ -16,7 +16,10 @@ export const About = () =>{
 
             <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
                 <p className="text-gray-300 mb-6">
-                    Passionate developer with expertise in building scalable web applications and creating innovative solutions.
+                        I'm currently diving deep into ethical hacking and cybersecurity to
+            build safer, more resilient web solutions. With a background in
+            front-end development, I combine security awareness with great user
+            experience.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div className="rounded-xl p-6 hover:-translate-y-1 transition-all">
