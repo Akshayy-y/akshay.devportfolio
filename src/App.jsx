@@ -9,6 +9,7 @@ import { Projects } from './Components/sections/Projects';
 import { Contact } from './Components/sections/Contact';
 import "./index.css"
 import Technologies from './Components/sections/Technologies';
+import Tools from "./Components/sections/Tools";
 import { motion, useMotionTemplate } from 'framer-motion';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
           <Navbar menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
           <MobileMenu menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
           <Home />
+          <Tools />
           <Technologies />
           <About />
           <Projects />

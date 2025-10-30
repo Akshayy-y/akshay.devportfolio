@@ -19,8 +19,10 @@ const techStack = [
 const Technologies = () => {
   return (
     <div className="border-b border-neutral-800 pb-24">
-      <h2 className="my-20 text-center text-4xl">Technologies</h2>
-      <div className="flex flex-wrap items-center justify-center gap-4">
+      <h2 className="my-20 text-center text-4xl font-semibold">
+        Technologies & Frameworks
+      </h2>
+      <div className="flex flex-wrap items-center justify-center gap-6">
         {techStack.map((tech, index) => {
           const Icon = tech.icon;
           return (
