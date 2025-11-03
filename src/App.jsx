@@ -8,7 +8,7 @@ import { About } from './Components/sections/About';
 import { Projects } from './Components/sections/Projects';
 import { Contact } from './Components/sections/Contact';
 import "./index.css"
-import Technologies from './Components/sections/Technologies';
+// import Technologies from './Components/sections/Technologies';
 import Tools from "./Components/sections/Tools";
 import { motion, useMotionTemplate } from 'framer-motion';
 
@@ -23,7 +23,6 @@ function App() {
           <MobileMenu menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
           <Home />
           <Tools />
-          <Technologies />
           <About />
           <Projects />
           <Contact />

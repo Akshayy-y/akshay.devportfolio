@@ -10,6 +10,8 @@ export const About = () => {
     "Burp Suite",
     "OWASP ZAP",
     "Hashcat",
+    "Hydra",
+    "John The Ripper",
   ];
 
   const frontendSkills = ["HTML", "CSS", "JavaScript", "React", "Bootstrap", "TailwindCSS"];
